@@ -1,0 +1,13 @@
+C:\Users\fic\Documents\Progetos pasagens aérias\obj\Debug\netcoreapp3.1\Progetos pasagens aérias.csprojAssemblyReference.cache
+C:\Users\fic\Documents\Progetos pasagens aérias\obj\Debug\netcoreapp3.1\Progetos pasagens aérias.AssemblyInfoInputs.cache
+C:\Users\fic\Documents\Progetos pasagens aérias\obj\Debug\netcoreapp3.1\Progetos pasagens aérias.AssemblyInfo.cs
+C:\Users\fic\Documents\Progetos pasagens aérias\obj\Debug\netcoreapp3.1\Progetos pasagens aérias.csproj.CoreCompileInputs.cache
+C:\Users\fic\Documents\Progetos pasagens aérias\bin\Debug\netcoreapp3.1\Progetos pasagens aérias.exe
+C:\Users\fic\Documents\Progetos pasagens aérias\bin\Debug\netcoreapp3.1\Progetos pasagens aérias.deps.json
+C:\Users\fic\Documents\Progetos pasagens aérias\bin\Debug\netcoreapp3.1\Progetos pasagens aérias.runtimeconfig.json
+C:\Users\fic\Documents\Progetos pasagens aérias\bin\Debug\netcoreapp3.1\Progetos pasagens aérias.runtimeconfig.dev.json
+C:\Users\fic\Documents\Progetos pasagens aérias\bin\Debug\netcoreapp3.1\Progetos pasagens aérias.dll
+C:\Users\fic\Documents\Progetos pasagens aérias\bin\Debug\netcoreapp3.1\Progetos pasagens aérias.pdb
+C:\Users\fic\Documents\Progetos pasagens aérias\obj\Debug\netcoreapp3.1\Progetos pasagens aérias.dll
+C:\Users\fic\Documents\Progetos pasagens aérias\obj\Debug\netcoreapp3.1\Progetos pasagens aérias.pdb
+C:\Users\fic\Documents\Progetos pasagens aérias\obj\Debug\netcoreapp3.1\Progetos pasagens aérias.genruntimeconfig.cache
